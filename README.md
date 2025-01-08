@@ -2,4 +2,4 @@
 
 I'm a student who loves coding 👨‍💻 and physics 🌌.
 
-Learn more about me and see what I'm up to on my <a href="https://zlushiie.pages.dev/">Portfolio</a> 🌐.
+You can reach me via <a href="mailto:peterbossev@gmail.com">Email</a> 🌐.
