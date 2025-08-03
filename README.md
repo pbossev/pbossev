@@ -1,5 +1,5 @@
 # Hello, I am Peter. 👋.
 
-I'm a student who loves coding 👨‍💻 and physics 🌌.
+I'm a student who loves tech 💻 and math 🧮. 
 
-You can reach me via <a href="mailto:peterbossev@gmail.com">Email</a> 🌐.
+You can find out more about me on my <a href="https://pbossev.pages.dev/">Website</a> 🌐.
